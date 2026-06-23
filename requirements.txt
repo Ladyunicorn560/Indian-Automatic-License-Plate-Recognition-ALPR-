@@ -1,0 +1,8 @@
+opencv-python-headless>=4.9.0.80
+numpy<2.0.0
+pillow
+streamlit
+pandas
+fast-alpr[onnx]
+fastapi
+uvicorn
